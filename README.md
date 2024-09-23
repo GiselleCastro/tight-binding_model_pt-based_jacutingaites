@@ -21,3 +21,8 @@ Run the script
 > ./index.sh
 
 Choose the Pt-based jacutingaite, the type of crystal cell, and whether to consider spin-orbit coupling.
+
+
+## Cite as
+Giselle Castro. (2024, September 23). Tight-binding model of Pt-based jacutingaites. Zenodo.
+[![DOI](https://zenodo.org/badge/845769509.svg)](https://zenodo.org/doi/10.5281/zenodo.13830888)
